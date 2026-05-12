@@ -212,8 +212,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-
+## Light Off - No Obstacle ##
 <img width="1848" height="2752" alt="20260512_093010 jpg" src="https://github.com/user-attachments/assets/2b16a3dc-a933-4a00-8e6c-898b8dc5c5f4" />
+## Light On - Yes Obstacle ##
 <img width="1848" height="2836" alt="20260512_093022 jpg" src="https://github.com/user-attachments/assets/6b196efd-8dad-49ba-b5c0-4f380216af9e" />
 
 ## Result
